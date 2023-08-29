@@ -23,6 +23,8 @@ header img {
   border-radius: 15px;
   float: left;
   margin-right: 25px;
+  margin-bottom: 25PX;
+
 
 }
 nav ul {
@@ -53,6 +55,7 @@ footer {
 /* Estilos específicos */
 #inicio {
   background-color: #f4f4f4;
+  text-align: center;
 }
 
 #servicios ul {
